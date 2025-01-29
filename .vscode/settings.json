@@ -1,0 +1,5 @@
+{
+    "zowe.settings.localStorageMigrated": true,
+    "zowe.settings.oldSettingsMigrated": true,
+    "zowe.logger": "INFO"
+}
